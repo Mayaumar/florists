@@ -279,7 +279,7 @@
                                     <constraint firstAttribute="height" constant="90" id="q4Z-9v-9ph"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="How To Order">
+                                <buttonConfiguration key="configuration" style="plain" title="How To Place Order">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" red="0.0" green="0.56284224989999998" blue="0.31881666180000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </backgroundConfiguration>
@@ -414,7 +414,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="iZK-TT-mll"/>
+        <segue reference="kVb-9x-vih"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="1" width="736" height="1377"/>
